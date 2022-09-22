@@ -1,0 +1,1 @@
+export const PATH_IMAGE_BASE = 'https://images.ctfassets.net';
