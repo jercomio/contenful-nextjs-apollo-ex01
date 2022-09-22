@@ -28,7 +28,7 @@ Une fois configuré, Apollo Studio affiche le schéma GraphQL de l'API Contentfu
 
 ## Pour commencer avec Next.js
 
-Clonez ce repository sur votre machine locale dans le dossier de votre choix, placez-vous à la racine de dernier, puis installez les dépendances en tapant dans votre terminal la ligne de commande suivante:
+Clonez ce repository sur votre machine locale dans le dossier de votre choix, placez-vous à la racine de ce dernier, puis installez les dépendances en tapant dans votre terminal la ligne de commande suivante:
 
 ```bash
 npm install
