@@ -16,12 +16,12 @@ Configurez Apollo Studio:
 
 Les informations API sont accessibles dans la rubrique 'Settings/API keys' de votre espace Contentful.
 
-1. EndPoint: https://graphql.contentful.com/content/v1/spaces/{SPACE_ID}/environments/{ENVIRONMENT_NAME}
+1. EndPoint: ```https://graphql.contentful.com/content/v1/spaces/{SPACE_ID}/environments/{ENVIRONMENT_NAME}```
 
-Par défault, {ENVIRONMENT_NAME} correspond à 'master'.
+Par défault, ```{ENVIRONMENT_NAME}``` correspond à 'master'.
 
 2. Headers:
-   Authorization: Bearer {CONTENTFUL_PREVIEW_ACCESS_TOKEN}
+   ```Authorization: Bearer {CONTENTFUL_PREVIEW_ACCESS_TOKEN}```
 
 Une fois configuré, Apollo Studio affiche le schéma GraphQL de l'API Contentful correspondant à votre espace. Il ne vous reste plus qu'à l'exploiter comme vous souhaitez.
 
